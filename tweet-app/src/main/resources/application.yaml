@@ -1,0 +1,10 @@
+camunda.bpm.client:
+  base-url: http://localhost:8080/engine-rest
+
+#Twitter
+twitter.token: "xyz"
+twitter.tokenSecret: "xyz"
+twitter.apiKey: "xyz"
+twitter.apiKeySecret: "xyz"
+
+

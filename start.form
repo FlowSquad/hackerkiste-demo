@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "label": "Name",
+      "type": "textfield",
+      "id": "Field_09k68iw",
+      "key": "name",
+      "validate": {
+        "required": true
+      },
+      "description": "Wie heißt du?"
+    },
+    {
+      "label": "E-Mail",
+      "type": "textfield",
+      "id": "Field_06mklsx",
+      "key": "mail",
+      "validate": {
+        "required": true
+      }
+    }
+  ],
+  "type": "default",
+  "id": "start.form",
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.15"
+}

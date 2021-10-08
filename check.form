@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "label": "Name",
+      "type": "textfield",
+      "id": "Field_0bvj12b",
+      "key": "name"
+    },
+    {
+      "label": "E-Mail Adresse",
+      "type": "textfield",
+      "id": "Field_16crwmb",
+      "key": "mail"
+    },
+    {
+      "label": "Anmeldung OK?",
+      "type": "checkbox",
+      "id": "Field_19ynv2o",
+      "key": "accepted"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1wis48x"
+}
